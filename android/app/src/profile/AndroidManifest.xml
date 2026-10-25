@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- need internet here so flutter tool can talk to the app for hot
+         reload/breakpoints n stuff while ur developing -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
